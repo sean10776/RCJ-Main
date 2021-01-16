@@ -130,10 +130,3 @@ bool IR::GetVector(float &x, float &y,float &ratio, bool dis){
 	if(dis)Serial.print(String("No Ball\n"));
 	return false;
 }
-
-
-
-
-
-
-
