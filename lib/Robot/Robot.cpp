@@ -32,7 +32,7 @@ void Robot::init()
 
 /*!
  * @brief 讀序列埠
- * @return 序列埠自元; 如果沒有回傳N
+ * @return 序列埠字元; 如果沒有回傳N
  */ 
 char Robot::key()
 {
